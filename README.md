@@ -577,7 +577,16 @@ script /dev/null -c bash
 | Exploit-DB | https://www.exploit-db.com |
 | LinPeas | https://github.com/carlospolop/PEASS-ng |
 | pspy | https://github.com/DominicBreuker/pspy |
-| HackTricks Linux PrivEsc | https://book.hacktricks.xyz/linux-hardening/privilege-escalation |
+
+---
+
+## General References
+
+| Resource | URL |
+|----------|-----|
+| TryHackMe: Linux Privilege Escalation Walkthrough | https://tryhackme.com/room/linprivesc |
+| Motasem Hamdan: YT THM Walkthrough | https://www.youtube.com/watch?v=7WQndt-1WzE&vl=en |
+| Conda: OSCP Methodology | https://www.youtube.com/watch?v=VpNaPAh93vE |
 
 ---
 
